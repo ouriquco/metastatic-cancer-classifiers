@@ -18,7 +18,7 @@ Here are the steps for setting up and running this notebook.
    ```
 3. Clone the project
    ```
-   https://github.com/ouriquco/metastatic-cancer-classifiers.git
+   git clone https://github.com/ouriquco/metastatic-cancer-classifiers.git
    ```
 5. Run the first code cell
 6. Run the remaining code cells
