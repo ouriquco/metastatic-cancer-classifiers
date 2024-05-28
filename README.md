@@ -9,10 +9,25 @@ The purpose of this project is to compete in the WiDS Datathon 2024 Challenge #1
 * Stacking Generalization
 
 ## How to download and use the jupyter notebook
+
 Here are the steps for setting up and running this notebook.
 
 1. Create a directory for this project on your local machine
 2. Clone this proect in that directory
-3. Run the first code cell first
+3. Run the first code cell
 4. Run the remaining code cells
+
+## How to tweak this project for you own uses
+
+Here are some examples of how the code can be reused in your own project.
+
+1. Adopt most of the logic in the clean_text function for your own NLP tasks
+2. Adopt the logic in the balance_and_sample_data function to balance classes for either binary or multiclass classification
+3. Adopt pipelining, stacking, and hyper parameter searching techniques in your own implementations
+
+## Find a bug?
+
+If you have found an issue and would like to improve the project, please submit an issue using the issue tab above. If you would like to sumbit a PR with a fix, reference the issue you created. 
+
+
 
