@@ -12,10 +12,16 @@ The purpose of this project is to compete in the WiDS Datathon 2024 Challenge #1
 
 Here are the steps for setting up and running this notebook.
 
-1. Create a directory for this project on your local machine
-2. Clone this proect in that directory
-3. Run the first code cell
-4. Run the remaining code cells
+1. Navigate to preferred directory
+   ```
+   cd <directory>
+   ```
+3. Clone the project
+   ```
+   https://github.com/ouriquco/metastatic-cancer-classifiers.git
+   ```
+5. Run the first code cell
+6. Run the remaining code cells
 
 ## How to tweak this project for you own uses
 
