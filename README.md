@@ -7,3 +7,12 @@ The purpose of this project is to compete in the WiDS Datathon 2024 Challenge #1
 * Random Forest
 * Extra Trees
 * Stacking Generalization
+
+## How to download and use the jupyter notebook
+Here are the steps for setting up and running this notebook.
+
+1. Create a directory for this project on your local machine
+2. Clone this proect in that directory
+3. Run the first code cell first
+4. Run the remaining code cells
+
